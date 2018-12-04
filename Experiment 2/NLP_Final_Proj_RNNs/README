@@ -1,0 +1,14 @@
+The folder nn contains a variety of neural network implementations:
+GRU, LSTM, and a Stacked GRU implementation. They will say regression for classification based on
+the purpose of the network.
+
+Classification.py is used to classify into 1 - 5 star category.
+
+Regression.py is used for regression -> see how close a decimal number is to the true value.
+
+Stopwords.txt is a list of all potential stopwords to filter out.
+
+The yelp_dataset_small_sample.json is our dataset.
+
+To download the pretrained Word2Vec weights, visit https://github.com/mmihaltz/word2vec-GoogleNews-vectors
+and download GoogleNews-vectors-negative300bin.gz and rename it GoogleNewsNLP.bin to make it functional with this code.
