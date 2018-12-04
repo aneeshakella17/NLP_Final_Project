@@ -1,3 +1,12 @@
+
+SAMPLE FILES:
+To run classification.py -> python classification.py 
+To run regression.py -> python regression.py
+
+
+
+INFO ABOUT EACH FILE:
+
 The folder nn contains a variety of neural network implementations:
 GRU, LSTM, and a Stacked GRU implementation. They will say regression for classification based on
 the purpose of the network.

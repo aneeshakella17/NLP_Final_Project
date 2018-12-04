@@ -1,3 +1,5 @@
+By Aneesh Akella, John Bernal, and Haruto Nakai
+
 Appendices contain graphs to represent the various graphs seen in the paper
 Experiment 1 Contains the code for running Experiment 1 (standard NN implementations)
 Experiment 2 contains the code for running Experiment 2 (RNN's)
